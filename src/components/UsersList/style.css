@@ -1,0 +1,13 @@
+.users-container {
+  display: grid;
+  align-items: start;
+}
+
+.users-container__grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(auto, 120px);
+  column-gap: 24px;
+  row-gap: 24px;
+  margin: 24px;
+}

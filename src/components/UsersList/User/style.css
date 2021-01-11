@@ -1,0 +1,7 @@
+.user-card {
+  height: auto;
+  background: white;
+  border: 1px solid black;
+  overflow: hidden;
+  padding: 16px;
+}
